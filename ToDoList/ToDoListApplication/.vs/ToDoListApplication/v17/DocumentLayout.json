@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\klara\\source\\repos\\ToDoList_GruppeKVKN\\ToDoList_GruppeKVKN\\ToDoList\\ToDoListApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\zoech\\OneDrive\\Dokumente\\GitHub\\ToDoList_GruppeKVKN\\ToDoList\\ToDoListApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6233F5BD-D777-4A43-8253-54986B4028F9}|ToDoListApplication\\ToDoListApplication.csproj|c:\\users\\klara\\source\\repos\\todolist_gruppekvkn\\todolist_gruppekvkn\\todolist\\todolistapplication\\todolistapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6233F5BD-D777-4A43-8253-54986B4028F9}|ToDoListApplication\\ToDoListApplication.csproj|c:\\users\\zoech\\onedrive\\dokumente\\github\\todolist_gruppekvkn\\todolist\\todolistapplication\\todolistapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6233F5BD-D777-4A43-8253-54986B4028F9}|ToDoListApplication\\ToDoListApplication.csproj|solutionrelative:todolistapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\klara\\source\\repos\\ToDoList_GruppeKVKN\\ToDoList_GruppeKVKN\\ToDoList\\ToDoListApplication\\ToDoListApplication\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\zoech\\OneDrive\\Dokumente\\GitHub\\ToDoList_GruppeKVKN\\ToDoList\\ToDoListApplication\\ToDoListApplication\\Program.cs",
               "RelativeDocumentMoniker": "ToDoListApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\klara\\source\\repos\\ToDoList_GruppeKVKN\\ToDoList_GruppeKVKN\\ToDoList\\ToDoListApplication\\ToDoListApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\zoech\\OneDrive\\Dokumente\\GitHub\\ToDoList_GruppeKVKN\\ToDoList\\ToDoListApplication\\ToDoListApplication\\Program.cs",
               "RelativeToolTip": "ToDoListApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T13:25:44.954Z",
+              "WhenOpened": "2025-05-17T13:33:29.67Z",
               "EditorCaption": ""
             }
           ]
