@@ -1,0 +1,2 @@
+# ToDoList_GruppeKVKN
+Gruppenprojekt_Palkovich-Iljazi-Zoechling-Zeugswetter
